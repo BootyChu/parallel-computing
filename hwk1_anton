@@ -1,0 +1,8 @@
+1. The number of days is:258.50
+2. The numbr of days is:87.24
+3. The number of distinct paths is:(2(n-1))!/((n-1)!)^2 
+4. The number of nodes is:(n!)/(d!(n-d)!)
+5a. The path from processor 6 to processor 7:110 A3 B2 C4 111
+5b. The path from processor 2 to processor 4:010 A3 B2 C3 100
+5c. True or False:False
+5d. True or False:True
